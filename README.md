@@ -9,8 +9,8 @@ Boilerplate to integrate firebase with your ember app
 * Copy your app credentials and replace in the `environment.js` found in your `config` folder
 
 ## Running / Development
-* ember serve
+* `ember serve`
 
 ## Running Tests
-* ember test
-* ember test --server
+* `ember test`
+* `ember test --server`
