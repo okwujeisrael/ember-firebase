@@ -17,6 +17,14 @@ module.exports = function(environment) {
       }
     },
 
+    //Add your firebase credentials here
+    firebase: {
+      apiKey: 'Your API key',
+      authDomain: 'your-app-domain.firebaseapp.com',
+      databaseURL: 'https://your-app.firebaseio.com',
+      projectId: 'your-app-id',
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
